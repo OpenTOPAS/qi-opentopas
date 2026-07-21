@@ -1,5 +1,5 @@
 #--- Graphics
-s:Gr/MyGraphic/Type          = "HepRep"
+s:Gr/MyGraphic/Type          = "VRML"
 b:Gr/MyGraphic/IncludeAxes   = "true"
 d:Gr/MyGraphic/AxesSize      = 20.0 cm
 s:Gr/MyGraphic/AxesComponent = "Letter_O"
