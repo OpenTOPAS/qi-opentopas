@@ -5,7 +5,6 @@
 #--- Graphics
 b:Ge/World/Invisible    = "True"
 s:Gr/MyGraphic/Type     = "VRML"
-s:Gr/MyGraphic/FileName = "Geometry_02"
 
 
 # Box

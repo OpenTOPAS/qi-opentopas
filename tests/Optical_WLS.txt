@@ -26,4 +26,4 @@ s:Ph/Optical/Type     = "Geant4_Modular"
 sv:Ph/Optical/Modules = 2 "g4em-standard_opt3" "g4optical"
 
 i:So/Default/NumberOfHistoriesInRun   = 10
-
+i:Ts/Seed = 4

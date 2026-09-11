@@ -1,9 +1,9 @@
 #--- Graphics
-s:Gr/MyGraphic/Type          = "VRML"
+s:Gr/MyGraphic/Type          = "vrml"
 b:Gr/MyGraphic/IncludeAxes   = "true"
 d:Gr/MyGraphic/AxesSize      = 20.0 cm
 s:Gr/MyGraphic/AxesComponent = "Letter_O"
-s:Gr/MyGraphic/FileName      = "Geometry_01"
+s:Gr/MyGraphic/FileName      = "g4_00"
 
 
 #--------- Letter T --------

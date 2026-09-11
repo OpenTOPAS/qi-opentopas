@@ -10,6 +10,6 @@
         "Geometry_01.txt"
     ],
     "output_files": {
-        "Geometry_010.heprep": "default"
+        "g4_00.wrl": "default"
     }
 }
